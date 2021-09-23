@@ -1,5 +1,5 @@
 from odoo import http
-from oddo.addons.library_apps.controllers.main import Books
+from odoo.addons.library_app.controllers.main import Books
 
 class BooksExtended(Books):
     @http.route()
