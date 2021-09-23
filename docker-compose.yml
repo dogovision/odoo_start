@@ -24,4 +24,5 @@ volumes:
   odoo14-web-data:
   odoo14-db-data:
 
+# main password for database
 # mpwd = 5nqh-sycr-df64
